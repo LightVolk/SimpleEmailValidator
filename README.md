@@ -1,0 +1,2 @@
+# SimpleEmailValidator
+Simple email validation
