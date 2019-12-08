@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Simplevolk</Authors>
+    <Company>My self</Company>
+    <Description>Simple email validation</Description>
+    <Copyright>Apache License 2.0</Copyright>
+  </PropertyGroup>
+
+</Project>
