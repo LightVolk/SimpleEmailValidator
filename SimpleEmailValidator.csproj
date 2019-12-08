@@ -7,6 +7,15 @@
     <Company>My self</Company>
     <Description>Simple email validation</Description>
     <Copyright>Apache License 2.0</Copyright>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <Version>1.0.1</Version>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
